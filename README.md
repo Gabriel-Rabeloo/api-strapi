@@ -1,3 +1,7 @@
-# Strapi application
+# Simple blog API made in Strapi
 
-A quick description of your strapi application
+* Front-end of this [application](https://github.com/Gabriel-Rabeloo/blog-next)
+
+### technologies used
+- Docker-compose
+- postgreSQL
